@@ -1,6 +1,6 @@
 import { StyleSheet, View, SafeAreaView, ScrollView } from "react-native";
 import { ButtonGroup } from "./components/ButtonGroup";
-
+//code is not working , thats just a POC after GPT session
 // if I have more time I would refactor by taking out all scroll view logic to the separate component
 
 export default function App() {
